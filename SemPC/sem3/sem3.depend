@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547405087 source:d:\cursuri\programarea calculatoarelor\sempc\sem3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

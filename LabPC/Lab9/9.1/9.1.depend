@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545238809 source:d:\cursuri\programarea calculatoarelor\labpc\lab8\9.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

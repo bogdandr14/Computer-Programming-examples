@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543607922 source:c:\users\user\desktop\maximsir\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544963258 source:d:\cursuri\programarea calculatoarelor\labpc\lab7\maximsir\main.c
+	<stdio.h>
+	<stdlib.h>
+

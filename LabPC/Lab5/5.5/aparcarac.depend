@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542401994 source:c:\users\user\desktop\aparcarac\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541696002 source:g:\cursuri\labpc\aparcarac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+
+1542207288 source:d:\cursuri\programarea calculatoarelor\labpc\aparcarac\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544896019 source:d:\cursuri\programarea calculatoarelor\labpc\lab5\aparcarac\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543610450 source:c:\users\user\desktop\procentnote\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544964572 source:d:\cursuri\programarea calculatoarelor\labpc\lab7\procentnote\main.c
+	<stdio.h>
+	<stdlib.h>
+

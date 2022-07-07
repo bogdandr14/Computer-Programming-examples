@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541697418 source:d:\informatica\labpc\consvoc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544896242 source:d:\cursuri\programarea calculatoarelor\labpc\lab5\consvoc\main.c
+	<stdio.h>
+	<stdlib.h>
+

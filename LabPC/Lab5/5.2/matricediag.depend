@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542399059 source:c:\users\user\desktop\matricediag\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542399060 source:d:\cursuri\programarea calculatoarelor\labpc\matricediag\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544894451 source:d:\cursuri\programarea calculatoarelor\labpc\lab5\matricediag\main.c
+	<stdio.h>
+	<stdlib.h>
+

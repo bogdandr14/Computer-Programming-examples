@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543417159 source:d:\informatica\labpc\aparcaracpoint\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544966118 source:d:\cursuri\programarea calculatoarelor\labpc\lab7\aparcaracpoint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543611254 source:c:\users\user\desktop\cuviden\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544965100 source:d:\cursuri\programarea calculatoarelor\labpc\lab7\cuviden\main.c
+	<stdio.h>
+	<stdlib.h>
+

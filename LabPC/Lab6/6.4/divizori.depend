@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543006230 source:c:\users\user\desktop\divizori\main.c
+	<stdio.h>
+	<stdlib.h>
+

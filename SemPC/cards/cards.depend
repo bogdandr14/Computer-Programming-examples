@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543338832 source:d:\informatica\labpc\cards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1547407451 source:d:\cursuri\programarea calculatoarelor\sempc\cards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

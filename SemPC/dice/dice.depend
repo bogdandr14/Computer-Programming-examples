@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543247906 source:d:\informatica\labpc\dice\main.c
+	<stdlib.h>
+	<time.h>
+
+1543247906 source:d:\cursuri\programarea calculatoarelor\sempc\dice\main.c
+	<stdlib.h>
+	<time.h>
+
